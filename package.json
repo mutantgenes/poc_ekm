@@ -1,0 +1,8 @@
+{
+  "name": "EKM POC",
+  "version": "2.0.0",
+  "description": "POC for EKM changes",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {}
+}
