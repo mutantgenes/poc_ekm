@@ -8,7 +8,9 @@
     "start": "snowpack dev",
     "build": "snowpack build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "immer": "^8.0.0"
+  },
   "devDependencies": {
     "snowpack": "^2.18.3"
   }
