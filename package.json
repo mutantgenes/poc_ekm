@@ -1,8 +1,15 @@
 {
-  "name": "EKM POC",
+  "name": "poc-ekm",
   "version": "2.0.0",
-  "description": "POC for EKM changes",
+  "description": "Proof of Concept for EKM work",
   "keywords": [],
   "main": "/index.html",
-  "dependencies": {}
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "snowpack": "^2.18.3"
+  }
 }
