@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "Proof of Concept for EKM work",
   "keywords": [],
+  "main": "index.html",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build"
